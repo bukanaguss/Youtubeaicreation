@@ -1,0 +1,5 @@
+{
+  "name": "Remix: CineMind AI",
+  "description": "A tool for YouTube creators to generate unique and engaging video content ideas based on a theme, powered by Gemini. It provides different angles, clickbait titles, and strong hooks to improve audience retention.",
+  "requestFramePermissions": []
+}
